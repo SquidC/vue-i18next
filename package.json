@@ -17,6 +17,9 @@
     "vue3",
     "i18n"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Ming07 (https://github.com/SquidC)",
   "license": "ISC",
   "devDependencies": {
