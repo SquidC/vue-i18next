@@ -1,0 +1,28 @@
+{
+  "name": "@squidc/vue-i18next",
+  "version": "0.1.0",
+  "description": "i18next的vue插件",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "clean": "rimraf dist && mkdirp dist",
+    "build:es": "tsc -p .",
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "i18next",
+    "vue3",
+    "i18n"
+  ],
+  "author": "Ming07 (https://github.com/SquidC)",
+  "license": "ISC",
+  "devDependencies": {
+    "i18next": "^19.8.4"
+  },
+  "peerDependencies": {
+    "i18next": ">= 19.0.0"
+  }
+}
