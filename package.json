@@ -23,11 +23,11 @@
   "author": "Ming07 (https://github.com/SquidC)",
   "license": "ISC",
   "devDependencies": {
-    "@vue/reactivity": "^3.0.5",
+    "vue": "^3.0.5",
     "i18next": "^19.8.4"
   },
   "peerDependencies": {
     "i18next": ">= 19.0.0",
-    "@vue/reactivity": "^3.0.5"
+    "vue": "^3.0.5"
   }
 }
