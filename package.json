@@ -1,6 +1,6 @@
 {
   "name": "@squidc/vue-i18next",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "i18next的vue插件",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -23,8 +23,8 @@
   "author": "Ming07 (https://github.com/SquidC)",
   "license": "ISC",
   "devDependencies": {
-    "vue": "^3.0.5",
-    "i18next": "^19.8.4"
+    "i18next": "^19.8.4",
+    "vue": "^3.0.5"
   },
   "peerDependencies": {
     "i18next": ">= 19.0.0",
